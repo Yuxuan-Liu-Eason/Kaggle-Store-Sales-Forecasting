@@ -2,7 +2,7 @@
 
 https://www.kaggle.com/vicsuperman/prediction-of-music-genre
 
-This is a share of my solution for the above competition on Kaggle. The goal is to use holiday, oil price and promotion information to predict future sales.
+This is a share of my solution for the above competition on Kaggle (40/860 on leaderboard). The goal is to use holiday, oil price and promotion information to predict future sales.
 
 ## EDA
 
