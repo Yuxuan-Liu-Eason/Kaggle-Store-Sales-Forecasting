@@ -34,3 +34,5 @@ The idea of seperate training using ridge and random forest is from https://www.
 Validation set:
 
 ![image](https://user-images.githubusercontent.com/76148884/150660390-5c8552b8-d3a7-4840-9365-bd9e2fc7d244.png)
+
+The changllenging aspects about this competition is that there are many stores and products to predict. Each store might have different patterns or rules. That is why I used multioutput models. Another problem is that the special category "SCHOOL AND OFFICE SUPPLIES" is hard to predict even with special training.
