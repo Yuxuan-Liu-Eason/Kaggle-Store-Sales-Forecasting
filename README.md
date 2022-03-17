@@ -1,6 +1,6 @@
 # Kaggle-Store-Sales-Forecasting
 
-https://www.kaggle.com/vicsuperman/prediction-of-music-genre
+https://www.kaggle.com/c/store-sales-time-series-forecasting
 
 This is a share of my solution for the above competition on Kaggle (40/860 on leaderboard). The goal is to use holiday, oil price and promotion information to predict future sales.
 
